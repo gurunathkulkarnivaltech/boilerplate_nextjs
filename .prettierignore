@@ -1,0 +1,14 @@
+node_modules
+build
+.next/
+.swc/
+dist/
+/public/
+tsconfig.json
+Dockerfile
+README.md
+start_docker_container.sh
+*.yaml
+*.yml
+build_Config/
+build_Scripts/
